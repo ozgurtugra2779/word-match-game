@@ -1,0 +1,1686 @@
+{
+  "waymark": [
+    {
+      "title": "SCHOOL LIFE",
+      "words": [
+        {
+          "en": "ancient",
+          "tr": "antik, çok eski",
+          "id": "waymark_0_0"
+        },
+        {
+          "en": "art museum",
+          "tr": "sanat müzesi",
+          "id": "waymark_0_1"
+        },
+        {
+          "en": "be famous for",
+          "tr": "… ile ünlü olmak",
+          "id": "waymark_0_2"
+        },
+        {
+          "en": "boat ride",
+          "tr": "tekne gezisi",
+          "id": "waymark_0_3"
+        },
+        {
+          "en": "castle",
+          "tr": "kale",
+          "id": "waymark_0_4"
+        },
+        {
+          "en": "fascinating",
+          "tr": "büyüleyici",
+          "id": "waymark_0_5"
+        },
+        {
+          "en": "fjords",
+          "tr": "fiyortlar",
+          "id": "waymark_0_6"
+        },
+        {
+          "en": "fluently",
+          "tr": "akıcı bir şekilde",
+          "id": "waymark_0_7"
+        },
+        {
+          "en": "head to",
+          "tr": "… yönüne gitmek",
+          "id": "waymark_0_8"
+        },
+        {
+          "en": "historical ruin",
+          "tr": "tarihî kalıntı",
+          "id": "waymark_0_9"
+        },
+        {
+          "en": "historical site",
+          "tr": "tarihî yer",
+          "id": "waymark_0_10"
+        },
+        {
+          "en": "journey",
+          "tr": "yolculuk",
+          "id": "waymark_0_11"
+        },
+        {
+          "en": "location",
+          "tr": "konum, yer",
+          "id": "waymark_0_12"
+        },
+        {
+          "en": "monument",
+          "tr": "anıt",
+          "id": "waymark_0_13"
+        },
+        {
+          "en": "native language",
+          "tr": "ana dil",
+          "id": "waymark_0_14"
+        },
+        {
+          "en": "palace",
+          "tr": "saray",
+          "id": "waymark_0_15"
+        },
+        {
+          "en": "sightseeing",
+          "tr": "turistik yerleri gezme",
+          "id": "waymark_0_16"
+        },
+        {
+          "en": "square",
+          "tr": "meydan",
+          "id": "waymark_0_17"
+        },
+        {
+          "en": "tourist attraction",
+          "tr": "turistik yer",
+          "id": "waymark_0_18"
+        },
+        {
+          "en": "tower",
+          "tr": "kule",
+          "id": "waymark_0_19"
+        }
+      ]
+    },
+    {
+      "title": "CLASSROOM LIFE",
+      "words": [
+        {
+          "en": "always",
+          "tr": "her zaman",
+          "id": "waymark_1_0"
+        },
+        {
+          "en": "arrive home",
+          "tr": "eve varmak",
+          "id": "waymark_1_1"
+        },
+        {
+          "en": "attend classes",
+          "tr": "derslere katılmak",
+          "id": "waymark_1_2"
+        },
+        {
+          "en": "carefully",
+          "tr": "dikkatlice",
+          "id": "waymark_1_3"
+        },
+        {
+          "en": "check",
+          "tr": "kontrol etmek",
+          "id": "waymark_1_4"
+        },
+        {
+          "en": "comb my hair",
+          "tr": "saçımı taramak",
+          "id": "waymark_1_5"
+        },
+        {
+          "en": "do household chores",
+          "tr": "ev işleri yapmak",
+          "id": "waymark_1_6"
+        },
+        {
+          "en": "focus",
+          "tr": "odaklanmak",
+          "id": "waymark_1_7"
+        },
+        {
+          "en": "every day",
+          "tr": "her gün",
+          "id": "waymark_1_8"
+        },
+        {
+          "en": "get out of bed",
+          "tr": "yataktan kalkmak",
+          "id": "waymark_1_9"
+        },
+        {
+          "en": "go shopping",
+          "tr": "alışverişe gitmek",
+          "id": "waymark_1_10"
+        },
+        {
+          "en": "have a break",
+          "tr": "mola vermek",
+          "id": "waymark_1_11"
+        },
+        {
+          "en": "have a shower",
+          "tr": "duş almak",
+          "id": "waymark_1_12"
+        },
+        {
+          "en": "keep up with",
+          "tr": "takip etmek, geri kalmamak",
+          "id": "waymark_1_13"
+        },
+        {
+          "en": "leave home",
+          "tr": "evden ayrılmak",
+          "id": "waymark_1_14"
+        },
+        {
+          "en": "make my bed",
+          "tr": "yatağımı toplamak",
+          "id": "waymark_1_15"
+        },
+        {
+          "en": "occasionally",
+          "tr": "ara sıra",
+          "id": "waymark_1_16"
+        },
+        {
+          "en": "participate",
+          "tr": "katılmak",
+          "id": "waymark_1_17"
+        },
+        {
+          "en": "take notes",
+          "tr": "not almak",
+          "id": "waymark_1_18"
+        },
+        {
+          "en": "wake up",
+          "tr": "uyanmak",
+          "id": "waymark_1_19"
+        }
+      ]
+    },
+    {
+      "title": "PERSONAL LIFE: PHYSICAL APPEARANCE & PERSONALITY",
+      "words": [
+        {
+          "en": "attractive",
+          "tr": "çekici",
+          "id": "waymark_2_0"
+        },
+        {
+          "en": "blond(e)",
+          "tr": "sarışın",
+          "id": "waymark_2_1"
+        },
+        {
+          "en": "brave",
+          "tr": "cesur",
+          "id": "waymark_2_2"
+        },
+        {
+          "en": "calm",
+          "tr": "sakin",
+          "id": "waymark_2_3"
+        },
+        {
+          "en": "careless",
+          "tr": "dikkatsiz",
+          "id": "waymark_2_4"
+        },
+        {
+          "en": "cheerful",
+          "tr": "neşeli",
+          "id": "waymark_2_5"
+        },
+        {
+          "en": "clever",
+          "tr": "zeki",
+          "id": "waymark_2_6"
+        },
+        {
+          "en": "confident",
+          "tr": "özgüvenli",
+          "id": "waymark_2_7"
+        },
+        {
+          "en": "curly",
+          "tr": "kıvırcık",
+          "id": "waymark_2_8"
+        },
+        {
+          "en": "elderly",
+          "tr": "yaşlı",
+          "id": "waymark_2_9"
+        },
+        {
+          "en": "forgetful",
+          "tr": "unutkan",
+          "id": "waymark_2_10"
+        },
+        {
+          "en": "generous",
+          "tr": "cömert",
+          "id": "waymark_2_11"
+        },
+        {
+          "en": "gentle",
+          "tr": "nazik, yumuşak huylu",
+          "id": "waymark_2_12"
+        },
+        {
+          "en": "good-looking",
+          "tr": "yakışıklı / güzel",
+          "id": "waymark_2_13"
+        },
+        {
+          "en": "honest",
+          "tr": "dürüst",
+          "id": "waymark_2_14"
+        },
+        {
+          "en": "kind",
+          "tr": "iyi kalpli, nazik",
+          "id": "waymark_2_15"
+        },
+        {
+          "en": "medium-height",
+          "tr": "orta boylu",
+          "id": "waymark_2_16"
+        },
+        {
+          "en": "outgoing",
+          "tr": "sosyal, dışa dönük",
+          "id": "waymark_2_17"
+        },
+        {
+          "en": "polite",
+          "tr": "kibar",
+          "id": "waymark_2_18"
+        },
+        {
+          "en": "shy",
+          "tr": "utangaç",
+          "id": "waymark_2_19"
+        }
+      ]
+    },
+    {
+      "title": "FAMILY LIFE",
+      "words": [
+        {
+          "en": "accountant",
+          "tr": "muhasebeci",
+          "id": "waymark_3_0"
+        },
+        {
+          "en": "accounting firm",
+          "tr": "muhasebe şirketi",
+          "id": "waymark_3_1"
+        },
+        {
+          "en": "advise",
+          "tr": "tavsiye vermek",
+          "id": "waymark_3_2"
+        },
+        {
+          "en": "architect",
+          "tr": "mimar",
+          "id": "waymark_3_3"
+        },
+        {
+          "en": "bank clerk",
+          "tr": "banka memuru",
+          "id": "waymark_3_4"
+        },
+        {
+          "en": "businessperson",
+          "tr": "iş insanı",
+          "id": "waymark_3_5"
+        },
+        {
+          "en": "clinic",
+          "tr": "klinik",
+          "id": "waymark_3_6"
+        },
+        {
+          "en": "computer programmer",
+          "tr": "bilgisayar programcısı",
+          "id": "waymark_3_7"
+        },
+        {
+          "en": "content creator",
+          "tr": "içerik üreticisi",
+          "id": "waymark_3_8"
+        },
+        {
+          "en": "cousin",
+          "tr": "kuzen",
+          "id": "waymark_3_9"
+        },
+        {
+          "en": "defend",
+          "tr": "savunmak",
+          "id": "waymark_3_10"
+        },
+        {
+          "en": "design",
+          "tr": "tasarlamak",
+          "id": "waymark_3_11"
+        },
+        {
+          "en": "develop",
+          "tr": "geliştirmek",
+          "id": "waymark_3_12"
+        },
+        {
+          "en": "digital marketer",
+          "tr": "dijital pazarlamacı",
+          "id": "waymark_3_13"
+        },
+        {
+          "en": "journalist",
+          "tr": "gazeteci",
+          "id": "waymark_3_14"
+        },
+        {
+          "en": "lawyer",
+          "tr": "avukat",
+          "id": "waymark_3_15"
+        },
+        {
+          "en": "nephew",
+          "tr": "erkek yeğen",
+          "id": "waymark_3_16"
+        },
+        {
+          "en": "niece",
+          "tr": "kız yeğen",
+          "id": "waymark_3_17"
+        },
+        {
+          "en": "pharmacist",
+          "tr": "eczacı",
+          "id": "waymark_3_18"
+        },
+        {
+          "en": "security guard",
+          "tr": "güvenlik görevlisi",
+          "id": "waymark_3_19"
+        }
+      ]
+    },
+    {
+      "title": "LIFE IN THE HOUSE & NEIGHBOURHOOD",
+      "words": [
+        {
+          "en": "basin",
+          "tr": "lavabo",
+          "id": "waymark_4_0"
+        },
+        {
+          "en": "bathtub",
+          "tr": "küvet",
+          "id": "waymark_4_1"
+        },
+        {
+          "en": "bathroom",
+          "tr": "banyo",
+          "id": "waymark_4_2"
+        },
+        {
+          "en": "bedside table",
+          "tr": "komodin",
+          "id": "waymark_4_3"
+        },
+        {
+          "en": "block of flats",
+          "tr": "apartman",
+          "id": "waymark_4_4"
+        },
+        {
+          "en": "bungalow",
+          "tr": "tek katlı ev",
+          "id": "waymark_4_5"
+        },
+        {
+          "en": "carpet",
+          "tr": "halı",
+          "id": "waymark_4_6"
+        },
+        {
+          "en": "coffee table",
+          "tr": "sehpa",
+          "id": "waymark_4_7"
+        },
+        {
+          "en": "cooker",
+          "tr": "ocak",
+          "id": "waymark_4_8"
+        },
+        {
+          "en": "corridor",
+          "tr": "koridor",
+          "id": "waymark_4_9"
+        },
+        {
+          "en": "cottage",
+          "tr": "küçük kır evi",
+          "id": "waymark_4_10"
+        },
+        {
+          "en": "cupboard",
+          "tr": "dolap",
+          "id": "waymark_4_11"
+        },
+        {
+          "en": "curtain",
+          "tr": "perde",
+          "id": "waymark_4_12"
+        },
+        {
+          "en": "detached house",
+          "tr": "müstakil ev",
+          "id": "waymark_4_13"
+        },
+        {
+          "en": "dining room",
+          "tr": "yemek odası",
+          "id": "waymark_4_14"
+        },
+        {
+          "en": "dishwasher",
+          "tr": "bulaşık makinesi",
+          "id": "waymark_4_15"
+        },
+        {
+          "en": "downstairs",
+          "tr": "alt kat",
+          "id": "waymark_4_16"
+        },
+        {
+          "en": "fridge",
+          "tr": "buzdolabı",
+          "id": "waymark_4_17"
+        },
+        {
+          "en": "garage",
+          "tr": "garaj",
+          "id": "waymark_4_18"
+        },
+        {
+          "en": "wardrobe",
+          "tr": "gardırop",
+          "id": "waymark_4_19"
+        }
+      ]
+    },
+    {
+      "title": "LIFE IN THE CITY & COUNTRY",
+      "words": [
+        {
+          "en": "aubergine",
+          "tr": "patlıcan",
+          "id": "waymark_5_0"
+        },
+        {
+          "en": "barbecue",
+          "tr": "barbekü, mangal",
+          "id": "waymark_5_1"
+        },
+        {
+          "en": "beef",
+          "tr": "sığır eti",
+          "id": "waymark_5_2"
+        },
+        {
+          "en": "biscuit",
+          "tr": "bisküvi",
+          "id": "waymark_5_3"
+        },
+        {
+          "en": "bitter",
+          "tr": "acı",
+          "id": "waymark_5_4"
+        },
+        {
+          "en": "burger",
+          "tr": "hamburger",
+          "id": "waymark_5_5"
+        },
+        {
+          "en": "coconut",
+          "tr": "hindistan cevizi",
+          "id": "waymark_5_6"
+        },
+        {
+          "en": "courgette",
+          "tr": "kabak",
+          "id": "waymark_5_7"
+        },
+        {
+          "en": "couscous",
+          "tr": "kuskus",
+          "id": "waymark_5_8"
+        },
+        {
+          "en": "creamy",
+          "tr": "kremalı",
+          "id": "waymark_5_9"
+        },
+        {
+          "en": "cuisine",
+          "tr": "mutfak kültürü",
+          "id": "waymark_5_10"
+        },
+        {
+          "en": "curry",
+          "tr": "köri",
+          "id": "waymark_5_11"
+        },
+        {
+          "en": "dessert",
+          "tr": "tatlı",
+          "id": "waymark_5_12"
+        },
+        {
+          "en": "falafel",
+          "tr": "falafel",
+          "id": "waymark_5_13"
+        },
+        {
+          "en": "feast",
+          "tr": "ziyafet, bayram",
+          "id": "waymark_5_14"
+        },
+        {
+          "en": "herb",
+          "tr": "ot, baharat bitkisi",
+          "id": "waymark_5_15"
+        },
+        {
+          "en": "ingredient",
+          "tr": "malzeme",
+          "id": "waymark_5_16"
+        },
+        {
+          "en": "kebab",
+          "tr": "kebap",
+          "id": "waymark_5_17"
+        },
+        {
+          "en": "noodle",
+          "tr": "erişte",
+          "id": "waymark_5_18"
+        },
+        {
+          "en": "sweetcorn",
+          "tr": "tatlı mısır",
+          "id": "waymark_5_19"
+        }
+      ]
+    },
+    {
+      "title": "LIFE IN THE WORLD & NATURE",
+      "words": [
+        {
+          "en": "affect",
+          "tr": "etkilemek",
+          "id": "waymark_6_0"
+        },
+        {
+          "en": "air pollution",
+          "tr": "hava kirliliği",
+          "id": "waymark_6_1"
+        },
+        {
+          "en": "Asian elephant",
+          "tr": "Asya fili",
+          "id": "waymark_6_2"
+        },
+        {
+          "en": "be at risk",
+          "tr": "risk altında olmak",
+          "id": "waymark_6_3"
+        },
+        {
+          "en": "cheetah",
+          "tr": "çita",
+          "id": "waymark_6_4"
+        },
+        {
+          "en": "chimpanzee",
+          "tr": "şempanze",
+          "id": "waymark_6_5"
+        },
+        {
+          "en": "desert",
+          "tr": "çöl",
+          "id": "waymark_6_6"
+        },
+        {
+          "en": "disease",
+          "tr": "hastalık",
+          "id": "waymark_6_7"
+        },
+        {
+          "en": "dolphin",
+          "tr": "yunus",
+          "id": "waymark_6_8"
+        },
+        {
+          "en": "donate",
+          "tr": "bağış yapmak",
+          "id": "waymark_6_9"
+        },
+        {
+          "en": "food source",
+          "tr": "besin kaynağı",
+          "id": "waymark_6_10"
+        },
+        {
+          "en": "grassland",
+          "tr": "otlak",
+          "id": "waymark_6_11"
+        },
+        {
+          "en": "habitat loss",
+          "tr": "yaşam alanı kaybı",
+          "id": "waymark_6_12"
+        },
+        {
+          "en": "illegal",
+          "tr": "yasa dışı",
+          "id": "waymark_6_13"
+        },
+        {
+          "en": "marine pollution",
+          "tr": "deniz kirliliği",
+          "id": "waymark_6_14"
+        },
+        {
+          "en": "overfishing",
+          "tr": "aşırı avlanma",
+          "id": "waymark_6_15"
+        },
+        {
+          "en": "polar bear",
+          "tr": "kutup ayısı",
+          "id": "waymark_6_16"
+        },
+        {
+          "en": "prevent",
+          "tr": "önlemek",
+          "id": "waymark_6_17"
+        },
+        {
+          "en": "protect",
+          "tr": "korumak",
+          "id": "waymark_6_18"
+        },
+        {
+          "en": "wildlife",
+          "tr": "yaban hayatı",
+          "id": "waymark_6_19"
+        }
+      ]
+    },
+    {
+      "title": "LIFE IN THE UNIVERSE & FUTURE",
+      "words": [
+        {
+          "en": "action",
+          "tr": "aksiyon",
+          "id": "waymark_7_0"
+        },
+        {
+          "en": "actor",
+          "tr": "erkek oyuncu",
+          "id": "waymark_7_1"
+        },
+        {
+          "en": "actress",
+          "tr": "kadın oyuncu",
+          "id": "waymark_7_2"
+        },
+        {
+          "en": "adapt",
+          "tr": "uyum sağlamak",
+          "id": "waymark_7_3"
+        },
+        {
+          "en": "adventure",
+          "tr": "macera",
+          "id": "waymark_7_4"
+        },
+        {
+          "en": "alien invasion",
+          "tr": "uzaylı istilası",
+          "id": "waymark_7_5"
+        },
+        {
+          "en": "artificial",
+          "tr": "yapay",
+          "id": "waymark_7_6"
+        },
+        {
+          "en": "cartoon",
+          "tr": "çizgi film",
+          "id": "waymark_7_7"
+        },
+        {
+          "en": "comedy",
+          "tr": "komedi",
+          "id": "waymark_7_8"
+        },
+        {
+          "en": "crew",
+          "tr": "ekip",
+          "id": "waymark_7_9"
+        },
+        {
+          "en": "detective film",
+          "tr": "dedektif filmi",
+          "id": "waymark_7_10"
+        },
+        {
+          "en": "director",
+          "tr": "yönetmen",
+          "id": "waymark_7_11"
+        },
+        {
+          "en": "discover",
+          "tr": "keşfetmek",
+          "id": "waymark_7_12"
+        },
+        {
+          "en": "discovery",
+          "tr": "keşif",
+          "id": "waymark_7_13"
+        },
+        {
+          "en": "documentary",
+          "tr": "belgesel",
+          "id": "waymark_7_14"
+        },
+        {
+          "en": "explore",
+          "tr": "keşfetmek, araştırmak",
+          "id": "waymark_7_15"
+        },
+        {
+          "en": "futuristic",
+          "tr": "geleceğe yönelik",
+          "id": "waymark_7_16"
+        },
+        {
+          "en": "global",
+          "tr": "küresel",
+          "id": "waymark_7_17"
+        },
+        {
+          "en": "invention",
+          "tr": "icat",
+          "id": "waymark_7_18"
+        },
+        {
+          "en": "robotic",
+          "tr": "robotik",
+          "id": "waymark_7_19"
+        }
+      ]
+    }
+  ],
+  "uptone": [
+    {
+      "title": "SCHOOL LIFE & EDUCATION",
+      "words": [
+        {
+          "en": "compulsory education",
+          "tr": "zorunlu eğitim",
+          "id": "uptone_0_0"
+        },
+        {
+          "en": "curriculum",
+          "tr": "müfredat",
+          "id": "uptone_0_1"
+        },
+        {
+          "en": "boarding school",
+          "tr": "yatılı okul",
+          "id": "uptone_0_2"
+        },
+        {
+          "en": "state school",
+          "tr": "devlet okulu",
+          "id": "uptone_0_3"
+        },
+        {
+          "en": "private school",
+          "tr": "özel okul",
+          "id": "uptone_0_4"
+        },
+        {
+          "en": "grade / year",
+          "tr": "sınıf (seviye)",
+          "id": "uptone_0_5"
+        },
+        {
+          "en": "timetable",
+          "tr": "ders programı",
+          "id": "uptone_0_6"
+        },
+        {
+          "en": "assembly",
+          "tr": "toplantı, tören",
+          "id": "uptone_0_7"
+        },
+        {
+          "en": "extracurricular activity",
+          "tr": "ders dışı etkinlik",
+          "id": "uptone_0_8"
+        },
+        {
+          "en": "tradition",
+          "tr": "gelenek",
+          "id": "uptone_0_9"
+        },
+        {
+          "en": "graduation ceremony",
+          "tr": "mezuniyet töreni",
+          "id": "uptone_0_10"
+        },
+        {
+          "en": "national day",
+          "tr": "millî bayram",
+          "id": "uptone_0_11"
+        },
+        {
+          "en": "commemorate",
+          "tr": "anmak",
+          "id": "uptone_0_12"
+        },
+        {
+          "en": "celebration",
+          "tr": "kutlama",
+          "id": "uptone_0_13"
+        },
+        {
+          "en": "exchange programme",
+          "tr": "değişim programı",
+          "id": "uptone_0_14"
+        },
+        {
+          "en": "assessment",
+          "tr": "değerlendirme",
+          "id": "uptone_0_15"
+        },
+        {
+          "en": "peer",
+          "tr": "akran",
+          "id": "uptone_0_16"
+        },
+        {
+          "en": "vocational school",
+          "tr": "meslek okulu",
+          "id": "uptone_0_17"
+        },
+        {
+          "en": "academic year",
+          "tr": "eğitim öğretim yılı",
+          "id": "uptone_0_18"
+        },
+        {
+          "en": "diverse",
+          "tr": "çeşitli, farklı",
+          "id": "uptone_0_19"
+        }
+      ]
+    },
+    {
+      "title": "CLASSROOM LIFE & LEARNING",
+      "words": [
+        {
+          "en": "favourite subject",
+          "tr": "en sevilen ders",
+          "id": "uptone_1_0"
+        },
+        {
+          "en": "elective course",
+          "tr": "seçmeli ders",
+          "id": "uptone_1_1"
+        },
+        {
+          "en": "hands-on activity",
+          "tr": "uygulamalı etkinlik",
+          "id": "uptone_1_2"
+        },
+        {
+          "en": "group project",
+          "tr": "grup projesi",
+          "id": "uptone_1_3"
+        },
+        {
+          "en": "presentation",
+          "tr": "sunum",
+          "id": "uptone_1_4"
+        },
+        {
+          "en": "study tool",
+          "tr": "çalışma aracı",
+          "id": "uptone_1_5"
+        },
+        {
+          "en": "digital textbook",
+          "tr": "dijital ders kitabı",
+          "id": "uptone_1_6"
+        },
+        {
+          "en": "flashcard app",
+          "tr": "kelime kartı uygulaması",
+          "id": "uptone_1_7"
+        },
+        {
+          "en": "interactive whiteboard",
+          "tr": "akıllı tahta",
+          "id": "uptone_1_8"
+        },
+        {
+          "en": "mind map",
+          "tr": "zihin haritası",
+          "id": "uptone_1_9"
+        },
+        {
+          "en": "revision",
+          "tr": "tekrar, gözden geçirme",
+          "id": "uptone_1_10"
+        },
+        {
+          "en": "concentrate",
+          "tr": "odaklanmak",
+          "id": "uptone_1_11"
+        },
+        {
+          "en": "take notes",
+          "tr": "not almak",
+          "id": "uptone_1_12"
+        },
+        {
+          "en": "memorise",
+          "tr": "ezberlemek",
+          "id": "uptone_1_13"
+        },
+        {
+          "en": "collaborate",
+          "tr": "iş birliği yapmak",
+          "id": "uptone_1_14"
+        },
+        {
+          "en": "innovative",
+          "tr": "yenilikçi",
+          "id": "uptone_1_15"
+        },
+        {
+          "en": "engaging",
+          "tr": "ilgi çekici, sürükleyici",
+          "id": "uptone_1_16"
+        },
+        {
+          "en": "practical",
+          "tr": "uygulamalı, pratik",
+          "id": "uptone_1_17"
+        },
+        {
+          "en": "self-study",
+          "tr": "bireysel çalışma",
+          "id": "uptone_1_18"
+        },
+        {
+          "en": "feedback",
+          "tr": "geri bildirim",
+          "id": "uptone_1_19"
+        }
+      ]
+    },
+    {
+      "title": "PERSONAL LIFE & WELL-BEING",
+      "words": [
+        {
+          "en": "well-being",
+          "tr": "iyilik hâli, esenlik",
+          "id": "uptone_2_0"
+        },
+        {
+          "en": "immune system",
+          "tr": "bağışıklık sistemi",
+          "id": "uptone_2_1"
+        },
+        {
+          "en": "symptom",
+          "tr": "belirti",
+          "id": "uptone_2_2"
+        },
+        {
+          "en": "recover",
+          "tr": "iyileşmek",
+          "id": "uptone_2_3"
+        },
+        {
+          "en": "chronic",
+          "tr": "kronik, süregelen",
+          "id": "uptone_2_4"
+        },
+        {
+          "en": "stress",
+          "tr": "stres",
+          "id": "uptone_2_5"
+        },
+        {
+          "en": "anxiety",
+          "tr": "kaygı",
+          "id": "uptone_2_6"
+        },
+        {
+          "en": "cope (with)",
+          "tr": "başa çıkmak",
+          "id": "uptone_2_7"
+        },
+        {
+          "en": "mindfulness",
+          "tr": "bilinçli farkındalık",
+          "id": "uptone_2_8"
+        },
+        {
+          "en": "burnout",
+          "tr": "tükenmişlik",
+          "id": "uptone_2_9"
+        },
+        {
+          "en": "resilience",
+          "tr": "dayanıklılık, psikolojik sağlamlık",
+          "id": "uptone_2_10"
+        },
+        {
+          "en": "social support",
+          "tr": "sosyal destek",
+          "id": "uptone_2_11"
+        },
+        {
+          "en": "isolation",
+          "tr": "yalnızlık, izolasyon",
+          "id": "uptone_2_12"
+        },
+        {
+          "en": "balanced diet",
+          "tr": "dengeli beslenme",
+          "id": "uptone_2_13"
+        },
+        {
+          "en": "sedentary",
+          "tr": "hareketsiz",
+          "id": "uptone_2_14"
+        },
+        {
+          "en": "self-esteem",
+          "tr": "özsaygı",
+          "id": "uptone_2_15"
+        },
+        {
+          "en": "peer pressure",
+          "tr": "akran baskısı",
+          "id": "uptone_2_16"
+        },
+        {
+          "en": "emotional intelligence",
+          "tr": "duygusal zekâ",
+          "id": "uptone_2_17"
+        },
+        {
+          "en": "screen time",
+          "tr": "ekran süresi",
+          "id": "uptone_2_18"
+        },
+        {
+          "en": "work-life balance",
+          "tr": "iş-yaşam dengesi",
+          "id": "uptone_2_19"
+        }
+      ]
+    },
+    {
+      "title": "FAMILY LIFE & HOME",
+      "words": [
+        {
+          "en": "household",
+          "tr": "ev halkı",
+          "id": "uptone_3_0"
+        },
+        {
+          "en": "extended family",
+          "tr": "geniş aile",
+          "id": "uptone_3_1"
+        },
+        {
+          "en": "nuclear family",
+          "tr": "çekirdek aile",
+          "id": "uptone_3_2"
+        },
+        {
+          "en": "generation gap",
+          "tr": "kuşak farkı",
+          "id": "uptone_3_3"
+        },
+        {
+          "en": "detached house",
+          "tr": "müstakil ev",
+          "id": "uptone_3_4"
+        },
+        {
+          "en": "semi-detached house",
+          "tr": "bitişik nizam (ikiz) ev",
+          "id": "uptone_3_5"
+        },
+        {
+          "en": "terraced house",
+          "tr": "sıra ev",
+          "id": "uptone_3_6"
+        },
+        {
+          "en": "apartment block",
+          "tr": "apartman",
+          "id": "uptone_3_7"
+        },
+        {
+          "en": "shared accommodation",
+          "tr": "ortak konut",
+          "id": "uptone_3_8"
+        },
+        {
+          "en": "multi-generational household",
+          "tr": "çok kuşaklı hane",
+          "id": "uptone_3_9"
+        },
+        {
+          "en": "chores",
+          "tr": "ev işleri",
+          "id": "uptone_3_10"
+        },
+        {
+          "en": "sibling",
+          "tr": "kardeş",
+          "id": "uptone_3_11"
+        },
+        {
+          "en": "compromise",
+          "tr": "uzlaşmak, uzlaşma",
+          "id": "uptone_3_12"
+        },
+        {
+          "en": "privacy",
+          "tr": "mahremiyet, özel alan",
+          "id": "uptone_3_13"
+        },
+        {
+          "en": "curfew",
+          "tr": "eve giriş saati",
+          "id": "uptone_3_14"
+        },
+        {
+          "en": "hospitality",
+          "tr": "misafirperverlik",
+          "id": "uptone_3_15"
+        },
+        {
+          "en": "neighbourhood",
+          "tr": "mahalle",
+          "id": "uptone_3_16"
+        },
+        {
+          "en": "volunteer",
+          "tr": "gönüllü olmak, gönüllü",
+          "id": "uptone_3_17"
+        },
+        {
+          "en": "elderly",
+          "tr": "yaşlı",
+          "id": "uptone_3_18"
+        },
+        {
+          "en": "harmony",
+          "tr": "uyum",
+          "id": "uptone_3_19"
+        }
+      ]
+    },
+    {
+      "title": "LIFE IN THE NEIGHBOURHOOD, CITY & SOCIAL LIFE",
+      "words": [
+        {
+          "en": "neighbourhood",
+          "tr": "mahalle",
+          "id": "uptone_4_0"
+        },
+        {
+          "en": "infrastructure",
+          "tr": "altyapı",
+          "id": "uptone_4_1"
+        },
+        {
+          "en": "public transport",
+          "tr": "toplu taşıma",
+          "id": "uptone_4_2"
+        },
+        {
+          "en": "commute",
+          "tr": "işe gidip gelmek, mesai yolculuğu",
+          "id": "uptone_4_3"
+        },
+        {
+          "en": "congestion",
+          "tr": "trafik sıkışıklığı",
+          "id": "uptone_4_4"
+        },
+        {
+          "en": "pedestrian zone",
+          "tr": "yaya bölgesi",
+          "id": "uptone_4_5"
+        },
+        {
+          "en": "urban sprawl",
+          "tr": "kentsel yayılma",
+          "id": "uptone_4_6"
+        },
+        {
+          "en": "rural",
+          "tr": "kırsal",
+          "id": "uptone_4_7"
+        },
+        {
+          "en": "amenities",
+          "tr": "olanaklar, imkânlar",
+          "id": "uptone_4_8"
+        },
+        {
+          "en": "cost of living",
+          "tr": "geçim maliyeti",
+          "id": "uptone_4_9"
+        },
+        {
+          "en": "community centre",
+          "tr": "toplum merkezi",
+          "id": "uptone_4_10"
+        },
+        {
+          "en": "sustainable",
+          "tr": "sürdürülebilir",
+          "id": "uptone_4_11"
+        },
+        {
+          "en": "renewable energy",
+          "tr": "yenilenebilir enerji",
+          "id": "uptone_4_12"
+        },
+        {
+          "en": "smart city",
+          "tr": "akıllı şehir",
+          "id": "uptone_4_13"
+        },
+        {
+          "en": "green space",
+          "tr": "yeşil alan",
+          "id": "uptone_4_14"
+        },
+        {
+          "en": "housing development",
+          "tr": "konut projesi",
+          "id": "uptone_4_15"
+        },
+        {
+          "en": "high-rise",
+          "tr": "yüksek katlı (bina)",
+          "id": "uptone_4_16"
+        },
+        {
+          "en": "gentrification",
+          "tr": "soylulaştırma",
+          "id": "uptone_4_17"
+        },
+        {
+          "en": "walkable",
+          "tr": "yürünebilir",
+          "id": "uptone_4_18"
+        },
+        {
+          "en": "self-sufficient",
+          "tr": "kendine yeterli",
+          "id": "uptone_4_19"
+        }
+      ]
+    },
+    {
+      "title": "LIFE IN THE WORLD & CULTURE",
+      "words": [
+        {
+          "en": "cuisine",
+          "tr": "mutfak (yemek kültürü)",
+          "id": "uptone_5_0"
+        },
+        {
+          "en": "staple food",
+          "tr": "temel besin",
+          "id": "uptone_5_1"
+        },
+        {
+          "en": "street food",
+          "tr": "sokak lezzeti",
+          "id": "uptone_5_2"
+        },
+        {
+          "en": "culinary heritage",
+          "tr": "mutfak mirası",
+          "id": "uptone_5_3"
+        },
+        {
+          "en": "fusion cuisine",
+          "tr": "füzyon mutfak",
+          "id": "uptone_5_4"
+        },
+        {
+          "en": "delicacy",
+          "tr": "nadide lezzet",
+          "id": "uptone_5_5"
+        },
+        {
+          "en": "etiquette",
+          "tr": "görgü kuralları",
+          "id": "uptone_5_6"
+        },
+        {
+          "en": "dietary custom",
+          "tr": "beslenme geleneği",
+          "id": "uptone_5_7"
+        },
+        {
+          "en": "indigenous",
+          "tr": "yerli, öz",
+          "id": "uptone_5_8"
+        },
+        {
+          "en": "globalisation",
+          "tr": "küreselleşme",
+          "id": "uptone_5_9"
+        },
+        {
+          "en": "homogenisation",
+          "tr": "tekdüzeleşme",
+          "id": "uptone_5_10"
+        },
+        {
+          "en": "franchise",
+          "tr": "bayilik zinciri",
+          "id": "uptone_5_11"
+        },
+        {
+          "en": "box office",
+          "tr": "gişe hasılatı",
+          "id": "uptone_5_12"
+        },
+        {
+          "en": "blockbuster",
+          "tr": "gişe rekortmeni",
+          "id": "uptone_5_13"
+        },
+        {
+          "en": "soundtrack",
+          "tr": "film müziği",
+          "id": "uptone_5_14"
+        },
+        {
+          "en": "subtitles",
+          "tr": "alt yazı",
+          "id": "uptone_5_15"
+        },
+        {
+          "en": "tournament",
+          "tr": "turnuva",
+          "id": "uptone_5_16"
+        },
+        {
+          "en": "fan base",
+          "tr": "hayran kitlesi",
+          "id": "uptone_5_17"
+        },
+        {
+          "en": "cultural exchange",
+          "tr": "kültürel değişim",
+          "id": "uptone_5_18"
+        },
+        {
+          "en": "authenticity",
+          "tr": "özgünlük",
+          "id": "uptone_5_19"
+        }
+      ]
+    },
+    {
+      "title": "LIFE IN NATURE & GLOBAL PROBLEMS",
+      "words": [
+        {
+          "en": "natural disaster",
+          "tr": "doğal afet",
+          "id": "uptone_6_0"
+        },
+        {
+          "en": "earthquake",
+          "tr": "deprem",
+          "id": "uptone_6_1"
+        },
+        {
+          "en": "flood",
+          "tr": "sel",
+          "id": "uptone_6_2"
+        },
+        {
+          "en": "wildfire",
+          "tr": "orman yangını",
+          "id": "uptone_6_3"
+        },
+        {
+          "en": "drought",
+          "tr": "kuraklık",
+          "id": "uptone_6_4"
+        },
+        {
+          "en": "landslide",
+          "tr": "toprak kayması",
+          "id": "uptone_6_5"
+        },
+        {
+          "en": "evacuate",
+          "tr": "tahliye etmek",
+          "id": "uptone_6_6"
+        },
+        {
+          "en": "aftermath",
+          "tr": "bir olayın ardından yaşanan dönem",
+          "id": "uptone_6_7"
+        },
+        {
+          "en": "devastate",
+          "tr": "harap etmek, yıkıma uğratmak",
+          "id": "uptone_6_8"
+        },
+        {
+          "en": "ecosystem",
+          "tr": "ekosistem",
+          "id": "uptone_6_9"
+        },
+        {
+          "en": "displacement",
+          "tr": "yerinden edilme, göçe zorlanma",
+          "id": "uptone_6_10"
+        },
+        {
+          "en": "resilience",
+          "tr": "dayanıklılık, toparlanma gücü",
+          "id": "uptone_6_11"
+        },
+        {
+          "en": "relief effort",
+          "tr": "yardım çalışması",
+          "id": "uptone_6_12"
+        },
+        {
+          "en": "artificial intelligence (AI)",
+          "tr": "yapay zekâ",
+          "id": "uptone_6_13"
+        },
+        {
+          "en": "predict",
+          "tr": "tahmin etmek, öngörmek",
+          "id": "uptone_6_14"
+        },
+        {
+          "en": "algorithm",
+          "tr": "algoritma",
+          "id": "uptone_6_15"
+        },
+        {
+          "en": "data analysis",
+          "tr": "veri analizi",
+          "id": "uptone_6_16"
+        },
+        {
+          "en": "early warning system",
+          "tr": "erken uyarı sistemi",
+          "id": "uptone_6_17"
+        },
+        {
+          "en": "sustainable",
+          "tr": "sürdürülebilir",
+          "id": "uptone_6_18"
+        },
+        {
+          "en": "vulnerable",
+          "tr": "kırılgan, savunmasız",
+          "id": "uptone_6_19"
+        }
+      ]
+    },
+    {
+      "title": "LIFE IN THE UNIVERSE & THE FUTURE",
+      "words": [
+        {
+          "en": "habitable",
+          "tr": "yaşanabilir",
+          "id": "uptone_7_0"
+        },
+        {
+          "en": "exoplanet",
+          "tr": "öte-gezegen",
+          "id": "uptone_7_1"
+        },
+        {
+          "en": "colonise",
+          "tr": "koloni kurmak",
+          "id": "uptone_7_2"
+        },
+        {
+          "en": "artificial intelligence",
+          "tr": "yapay zekâ",
+          "id": "uptone_7_3"
+        },
+        {
+          "en": "overpopulation",
+          "tr": "aşırı nüfus artışı",
+          "id": "uptone_7_4"
+        },
+        {
+          "en": "resource consumption",
+          "tr": "kaynak tüketimi",
+          "id": "uptone_7_5"
+        },
+        {
+          "en": "sustainable",
+          "tr": "sürdürülebilir",
+          "id": "uptone_7_6"
+        },
+        {
+          "en": "renewable energy",
+          "tr": "yenilenebilir enerji",
+          "id": "uptone_7_7"
+        },
+        {
+          "en": "space exploration",
+          "tr": "uzay araştırması",
+          "id": "uptone_7_8"
+        },
+        {
+          "en": "spacecraft",
+          "tr": "uzay aracı",
+          "id": "uptone_7_9"
+        },
+        {
+          "en": "astronaut",
+          "tr": "astronot",
+          "id": "uptone_7_10"
+        },
+        {
+          "en": "telescope",
+          "tr": "teleskop",
+          "id": "uptone_7_11"
+        },
+        {
+          "en": "galaxy",
+          "tr": "gökada",
+          "id": "uptone_7_12"
+        },
+        {
+          "en": "atmosphere",
+          "tr": "atmosfer",
+          "id": "uptone_7_13"
+        },
+        {
+          "en": "climate crisis",
+          "tr": "iklim krizi",
+          "id": "uptone_7_14"
+        },
+        {
+          "en": "breakthrough",
+          "tr": "çığır açan gelişme",
+          "id": "uptone_7_15"
+        },
+        {
+          "en": "innovation",
+          "tr": "yenilik",
+          "id": "uptone_7_16"
+        },
+        {
+          "en": "terraform",
+          "tr": "gezegeni dönüştürmek (dünyalaştırmak)",
+          "id": "uptone_7_17"
+        },
+        {
+          "en": "self-sufficient",
+          "tr": "kendine yeten",
+          "id": "uptone_7_18"
+        },
+        {
+          "en": "probe",
+          "tr": "uzay sondası",
+          "id": "uptone_7_19"
+        }
+      ]
+    }
+  ]
+}
